@@ -4,7 +4,11 @@ public class TestGit2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
         System.out.println("ggg---211111111----g  hello git");		
+=======
+        System.out.println("ggg---2-333---g  hello git");		
+>>>>>>> refs/heads/ano1
 
 	}
 
