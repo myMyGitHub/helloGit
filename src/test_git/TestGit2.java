@@ -7,7 +7,7 @@ public class TestGit2 {
 
         System.out.println("ggg---211111111----g  hello git");		
 
-        System.out.println("ggg---2-3abbbbbbbbbaaaaaaa33---g  hello git");		
+        System.out.println("gggbbbbaaaaaaa33---g  hello git");		
 
 
 	}
